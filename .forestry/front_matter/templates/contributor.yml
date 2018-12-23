@@ -1,0 +1,12 @@
+---
+label: contributor
+hide_body: false
+is_partial: true
+fields:
+- type: text
+  name: contributor_name
+  label: Contributor Name
+- type: text
+  name: contributor_link
+  label: Contributor Link
+  description: A link to the contributor's website, Twitter or IG.
