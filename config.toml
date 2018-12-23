@@ -2,3 +2,9 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Take Care"
 theme = "takecare"
+
+[menu]
+  [[menu.main]]
+    identifier = "Instagram"
+    name = "Instagram"
+    url = "https://instagram.com/heytakecare"
