@@ -13,3 +13,5 @@ fields:
   label: Issues
   template_types:
   - issue
+pages:
+- content/_index.md
