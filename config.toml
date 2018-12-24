@@ -1,15 +1,14 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Take Care"
 theme = "takecare"
-
-[menu]
-  [[menu.main]]
-    identifier = "Buy"
-    name = "Buy"
-    url = "https://heytakecare.bigcartel.com"
-
-  [[menu.main]]
-    identifier = "Instagram"
-    name = "Instagram"
-    url = "https://instagram.com/heytakecare"
+title = "Take Care"
+[[menu.main]]
+identifier = "Buy"
+name = "Buy"
+url = "https://heytakecare.bigcartel.com"
+weight = 3
+[[menu.main]]
+identifier = "Instagram"
+name = "Instagram"
+url = "https://instagram.com/heytakecare"
+weight = 4

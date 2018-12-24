@@ -1,4 +1,6 @@
 +++
 title = "About"
-menu = "main"
+[menu.main]
+weight = 2
+
 +++
