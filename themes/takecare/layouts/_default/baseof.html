@@ -1,11 +1,40 @@
 <!DOCTYPE html>
-<html>
-    {{- partial "head.html" . -}}
+<html lang="en" dir="ltr">
+    {{ partial "head.html" . }}
     <body>
-        {{- partial "header.html" . -}}
+        {{ partial "header.html" . }}
         <div id="content">
-        {{- block "main" . }}{{- end }}
+        {{ block "main" . }}{{ end }}
+        <p><strong>Take Care</strong> is a magazine put together by five friends living between Glasgow and London. The debut issue is a collection of creative responses to what is widely acknowledged as the UK housing crisis. This issue was put together over the course of a year in an attempt to understand the housing crisis and its causes. It’s tough out there. Take care of each other.</p>
+        <h3>Take Care Team</h3>
+        <ul>
+          <li>Sarah Bethan Jones</li>
+          <li>Charlotte Fountaine</li>
+          <li>Fran Gordon</li>
+          <li>Fran Gordon</li>
+          <li>Romany Rowell</li>
+        </ul>
+
+        <h3>Contributors</h3>
+        <ul>
+          <li>Antra Svarcs</li>
+          <li>Michael Sacco</li>
+          <li>Leonie Sinden</li>
+          <li>Chelsea Frew</li>
+          <li>Antra Svarcs</li>
+          <li>Michael Sacco</li>
+          <li>Leonie Sinden</li>
+          <li>Chelsea Frew</li>
+          <li>Antra Svarcs</li>
+          <li>Michael Sacco</li>
+          <li>Leonie Sinden</li>
+          <li>Chelsea Frew</li>
+          <li>Antra Svarcs</li>
+          <li>Michael Sacco</li>
+          <li>Leonie Sinden</li>
+          <li>Chelsea Frew</li>
+        </ul>
         </div>
-        {{- partial "footer.html" . -}}
+        {{ partial "footer.html" . }}
     </body>
 </html>
