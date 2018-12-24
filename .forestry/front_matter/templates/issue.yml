@@ -1,0 +1,15 @@
+---
+label: Issue
+hide_body: false
+is_partial: true
+display_field: issue_title
+fields:
+- type: text
+  name: issue_title
+  label: Issue Title
+- type: image_gallery
+  name: issue_images
+  label: Issue Images
+- type: boolean
+  name: is_current_issue
+  label: Current Issue
