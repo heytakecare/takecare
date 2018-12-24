@@ -1,21 +1,27 @@
+"use strict";
 
-function ImagePlacer(data) {
-  this.data = data;
+var placedImages = [];
+var content = document.getElementById('content');
+var body = document.getElementsByTagName('body')[0];
+var images = JSON.parse(content.dataset.images);
+
+content.onclick = function(event) {
+  let imgData = {
+    "xPos": event.clientX,
+    "yPos": event.clientY,
+    "src": randomChoice(images)
+  }
+  placedImages.push(imgData);
+  var img = document.createElement('img');
+  img.src = imgData.src;
+  img.style.position = "absolute";
+  img.style.left = imgData.xPos + "px";
+  img.style.top = imgData.yPos + "px";
+  img.style.width = "5rem";
+  body.appendChild(img);
 }
 
-ImagePlacer.prototype.place = function(tagname) {
-  let element = document.getElementsByTagName(tagname)[0];
-  element.addEventListener('click', function(e) {
-    var imgObj = {
-      "xPos": e.clientX,
-      "yPos": e.clientY,
-    }
-  })
-  imgObj.img = this.randomChoice(this.data)
-  this.data.push(imgObj)
-}
-
-ImagePlacer.prototype.randomChoice = function(choices) {
+function randomChoice(choices) {
   let index = Math.floor(Math.random() * choices.length);
   return choices[index];
 }

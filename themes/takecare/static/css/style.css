@@ -8,6 +8,10 @@ html,body {
   box-sizing: border-box;
 }
 
+body {
+  height: 100vh;
+}
+
 h3 {
   color: #b9f7e0;
 }
@@ -28,7 +32,7 @@ ul {
 nav {
   margin: 0;
   padding: 0;
-  width: 100vw;
+  width: 100%;
 }
 
 nav li {
