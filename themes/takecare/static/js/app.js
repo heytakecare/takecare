@@ -1,10 +1,10 @@
 "use strict";
 
 var placedImages = [];
-var body = document.getElementsByTagName('body')[0];
-var images = JSON.parse(content.dataset.images);
+var imageContainer = document.getElementById('images');
+var images = JSON.parse(imageContainer.dataset.images);
 
-body.onclick = function(event) {
+imageContainer.onclick = function(event) {
   let imgData = {
     "xPos": event.clientX,
     "yPos": event.clientY,
@@ -13,11 +13,11 @@ body.onclick = function(event) {
   placedImages.push(imgData);
   var img = document.createElement('img');
   img.src = imgData.src;
-  img.style.position = "fixed";
+  img.style.position = "absolute";
   img.style.left = imgData.xPos + "px";
   img.style.top = imgData.yPos + "px";
-  img.style.width = "5rem";
-  body.appendChild(img);
+  img.classList.add('placed');
+  this.appendChild(img);
 }
 
 function randomChoice(choices) {

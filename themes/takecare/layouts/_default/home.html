@@ -1,5 +1,6 @@
 {{ define "main" }}
   <h1>{{ .Site.Title }}</h1>
+  <div id="images" {{ block "data" . }}{{ end }}></div>
 {{ end }}
 
 {{ define "data" }}

@@ -34,6 +34,8 @@ nav {
   margin: 0;
   padding: 0;
   width: 100%;
+  z-index: 10000000;
+  position: relative;
 }
 
 nav li {
@@ -56,4 +58,62 @@ nav li.active {
 
 #content {
   padding: 4rem 2rem;
+}
+
+#images {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+img.placed {
+  width: 5rem;
+}
+
+@media screen and (min-width: 450px) {
+  img.placed {
+    width: 6.5rem;
+  }
+}
+
+
+@media screen and (min-width: 650px) {
+
+  nav {
+    background: #000;
+  }
+
+  nav ul {
+    padding: 1rem 2rem;
+  }
+
+  nav li {
+    display: inline-block;
+    background: none;
+    color: #ffddcb;
+  }
+
+  nav a {
+    color: #ffddcb;
+    padding: 0.4rem;
+  }
+
+  nav li.active {
+    background: none;
+  }
+
+  nav li.active a {
+    color: #5599a6;
+  }
+
+  img.placed {
+    width: 10rem;
+  }
+
+  #content {
+    margin: 0 8rem;
+    width: 40%;
+  }
 }
