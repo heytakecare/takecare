@@ -5,7 +5,7 @@ var content = document.getElementById('content');
 var body = document.getElementsByTagName('body')[0];
 var images = JSON.parse(content.dataset.images);
 
-content.onclick = function(event) {
+body.onclick = function(event) {
   let imgData = {
     "xPos": event.clientX,
     "yPos": event.clientY,
