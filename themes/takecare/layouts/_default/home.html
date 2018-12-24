@@ -1,14 +1,11 @@
 {{ define "main" }}
   <h1>{{ .Site.Title }}</h1>
+{{ end }}
+
+{{ define "data" }}
   {{ range .Params.issues }}
     {{ if .is_current_issue }}
-      <script>
-        var data = [];
-        {{ range .issue_images }}
-          data.push({{ . }})
-        {{ end }}
-      </script>
-      {{ .issue_images }}
+      data-images = {{ .issue_images | jsonify }}
     {{ end }}
   {{ end }}
 {{ end }}
