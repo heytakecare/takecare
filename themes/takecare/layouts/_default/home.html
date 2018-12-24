@@ -1,3 +1,14 @@
 {{ define "main" }}
-  <h1>Take Care</h1>
+  <h1>{{ .Site.Title }}</h1>
+  {{ range .Params.issues }}
+    {{ if .is_current_issue }}
+      <script>
+        var data = [];
+        {{ range .issue_images }}
+          data.push({{ . }})
+        {{ end }}
+      </script>
+      {{ .issue_images }}
+    {{ end }}
+  {{ end }}
 {{ end }}
