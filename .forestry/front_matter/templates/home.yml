@@ -10,6 +10,6 @@ fields:
   default: ''
 - type: blocks
   name: issues
-  label: Issue
+  label: Issues
   template_types:
   - issue
