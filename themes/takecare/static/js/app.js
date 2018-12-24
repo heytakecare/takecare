@@ -13,7 +13,7 @@ body.onclick = function(event) {
   placedImages.push(imgData);
   var img = document.createElement('img');
   img.src = imgData.src;
-  img.style.position = "absolute";
+  img.style.position = "fixed";
   img.style.left = imgData.xPos + "px";
   img.style.top = imgData.yPos + "px";
   img.style.width = "5rem";
