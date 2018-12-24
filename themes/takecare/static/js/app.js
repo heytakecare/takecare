@@ -1,7 +1,6 @@
 "use strict";
 
 var placedImages = [];
-var content = document.getElementById('content');
 var body = document.getElementsByTagName('body')[0];
 var images = JSON.parse(content.dataset.images);
 
