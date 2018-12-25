@@ -1,4 +1,5 @@
 +++
 title = "Buy"
-menu = "main"
+[menu.main]
+weight = 3
 +++

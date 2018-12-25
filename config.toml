@@ -3,11 +3,6 @@ languageCode = "en-us"
 theme = "takecare"
 title = "Take Care"
 [[menu.main]]
-identifier = "Buy"
-name = "Buy"
-url = "https://heytakecare.bigcartel.com"
-weight = 3
-[[menu.main]]
 identifier = "Instagram"
 name = "Instagram"
 url = "https://instagram.com/takecare_mag"
