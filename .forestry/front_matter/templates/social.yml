@@ -6,10 +6,13 @@ display_field: og_title
 fields:
 - type: text
   name: og_title
-  label: Title
+  label: Social Title
+  description: Determines the title that will appear on social media
 - type: textarea
   name: og_description
-  label: Description
+  label: Social description
+  description: Defines the description that will appear in social media posts
 - type: file
   name: og_image
-  label: Image
+  label: Social Image
+  description: The image that will be posted
