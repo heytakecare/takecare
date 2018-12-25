@@ -1,9 +1,9 @@
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-{{ with .Description }}<meta name="description" content="{{ .}}" />{{ end}}
-{{ with .Params.og_title }}<meta property="og:title" content="{{.}}" />{{end }}
-{{ with .Params.og_description }}<meta property="og:description" content="{{.}}" />{{ end }}
-{{ with .Params.og_image }}<meta property="og:image" content="{{ . | absURL }}" />{{ end }}
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link href="https://fonts.googleapis.com/css?family=Work+Sans:400,600" rel="stylesheet" />
   <link rel="stylesheet" type="text/css" href="/css/style.css" />
   <script src="/js/app.js" defer=true></script>
+  {{ with .Description }}<meta name="description" content="{{ .}}" />{{ end}}
+  {{ with .Params.og_title }}<meta property="og:title" content="{{.}}" />{{end }}
+  {{ with .Params.og_description }}<meta property="og:description" content="{{.}}" />{{ end }}
+  {{ with .Params.og_image }}<meta property="og:image" content="{{ . | absURL }}" />{{ end }}
