@@ -79,6 +79,10 @@ nav li.active {
   left: 0;
 }
 
+img {
+  width: 100%;
+}
+
 img.placed {
   width: 5rem;
 }
