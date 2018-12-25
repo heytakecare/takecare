@@ -95,8 +95,7 @@ article {
   }
 }
 
-
-@media screen and (min-width: 650px) {
+@media screen and (min-width:760px) {
   a:hover {
     color: #5599a6;
   }
@@ -144,6 +143,58 @@ article {
 
   #content {
     margin: 0 8rem;
-    width: 40%;
+    width: 60%;
+  }
+}
+
+@media screen and (min-width: 960px) {
+  a:hover {
+    color: #5599a6;
+  }
+
+  nav {
+    background: #000;
+  }
+
+  nav ul {
+    padding: 1rem 2rem;
+  }
+
+  nav li {
+    display: inline-block;
+    background: none;
+    color: #ffddcb;
+  }
+
+  nav a {
+    color: #ffddcb;
+    padding: 0.4rem;
+  }
+
+  nav a:visited {
+    color: #ffddcb;
+  }
+
+  nav li.active {
+    background: none;
+  }
+
+  nav li.active a {
+    color: #5599a6;
+  }
+
+  img.placed {
+    width: 10rem;
+  }
+
+  .social {
+    position: absolute;
+    right: 3rem;
+    padding: 0.3rem 0;
+  }
+
+  #content {
+    margin: 0 8rem;
+    width: 45%;
   }
 }
