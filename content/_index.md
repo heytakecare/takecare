@@ -1,6 +1,9 @@
 +++
-title = "Home"
 description = "Take Care is a website made by five friends."
+og_description = "Its Christmas"
+og_image = "/uploads/Images8.jpg"
+og_title = "Cheese get your hot cheese"
+title = "Home"
 [menu.main]
 weight = 1
 [[issues]]
