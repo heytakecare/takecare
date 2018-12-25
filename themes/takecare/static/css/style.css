@@ -95,7 +95,7 @@ article {
   }
 }
 
-@media screen and (min-width: 700px) {
+@media screen and (min-width: 760px) {
   a:hover {
     color: #5599a6;
   }
