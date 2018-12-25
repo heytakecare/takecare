@@ -1,0 +1,7 @@
+<article>
+  {{ with .cover_image }}<img src="{{ . }}" />{{ end}}
+  <p>{{ .Site.Title }}</p>
+  <p>{{ .issue_title }}</p>
+  <p>{{ .issue_price }}</p>
+  <a href="{{ .issue_buy_link}}" target="_blank">Add to cart</a>
+</article>
