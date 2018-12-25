@@ -1,6 +1,6 @@
 +++
-title = "About"
 description = ""
+title = "About"
 [menu.main]
 weight = 2
 

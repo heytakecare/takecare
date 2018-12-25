@@ -17,3 +17,5 @@ fields:
   name: social
   label: Social
   template: social
+pages:
+- content/about.md
