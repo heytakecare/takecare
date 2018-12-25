@@ -5,5 +5,6 @@ title = "Take Care"
 [[menu.main]]
 identifier = "Instagram"
 name = "Instagram"
+pre = "<span class='fab fa-instagram fa-2x' aria-hidden='true' class='icon'></span>"
 url = "https://instagram.com/takecare_mag"
 weight = 4

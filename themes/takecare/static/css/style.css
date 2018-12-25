@@ -61,6 +61,10 @@ nav li.active {
   background: #ffddcb;
 }
 
+.social a span.hidden {
+  display: none;
+}
+
 #content {
   padding: 4rem 2rem;
 }
@@ -81,6 +85,9 @@ img.placed {
   width: 5rem;
 }
 
+article {
+  margin-bottom: 3rem;
+}
 
 @media screen and (min-width: 450px) {
   img.placed {
@@ -127,6 +134,12 @@ img.placed {
 
   img.placed {
     width: 10rem;
+  }
+
+  .social {
+    position: absolute;
+    right: 3rem;
+    padding: 0.3rem 0;
   }
 
   #content {

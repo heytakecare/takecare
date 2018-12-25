@@ -3,7 +3,7 @@
       {{ $currentPage := . }}
       <ul id="menu">
         {{ range .Site.Menus.main }}
-          <li {{ if $currentPage.IsMenuCurrent "main" . }}class="active"{{ end }}><a href="{{ .URL }}">{{ .Name }}</a></li>
+          <li {{ if $currentPage.IsMenuCurrent "main" . }}class="active"{{ end }} {{ with .Pre }}class="social"{{ end}}><a href="{{ .URL }}">{{ if .Pre }}{{ .Pre }}<span class="hidden">{{ .Name }}</span>{{ else }}{{ .Name }}{{ end }}</a></li>
         {{ end }}
       </ul>
     </nav>
