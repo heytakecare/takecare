@@ -18,4 +18,5 @@ fields:
   label: Social
   template: social
 pages:
+- content/buy.md
 - content/about.md
