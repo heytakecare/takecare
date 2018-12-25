@@ -1,5 +1,6 @@
 +++
 title = "Home"
+description = "Take Care is a website made by five friends."
 [menu.main]
 weight = 1
 [[issues]]
