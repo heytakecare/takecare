@@ -2,6 +2,7 @@ html,body {
   padding: 0;
   margin: 0;
   font-size: 18px;
+  line-height: 1.4rem;
   font-family: 'Work Sans', sans-serif;
   background: #000;
   color: #FFF;
@@ -13,12 +14,8 @@ body {
   max-width: 100vw;
 }
 
-h3, a {
+h3 {
   color: #b9f7e0;
-}
-
-p {
-  line-height: 1.3rem;
 }
 
 ul {
@@ -27,11 +24,8 @@ ul {
   margin: 0;
 }
 
-a {
+a, a:visited {
   text-decoration: none;
-}
-
-a:visited {
   color: #b9f7e0;
 }
 
@@ -96,6 +90,9 @@ img.placed {
 
 
 @media screen and (min-width: 650px) {
+  a:hover {
+    color: #5599a6;
+  }
 
   nav {
     background: #000;
