@@ -1,5 +1,8 @@
 +++
 description = ""
+og_description = ""
+og_image = ""
+og_title = ""
 title = "About"
 [menu.main]
 weight = 2
@@ -9,28 +12,26 @@ weight = 2
 
 ### Take Care Team
 
-- Sarah Bethan Jones
-- Charlotte Fountaine
-- Fran Gordon
-- Fran Gordon
-- Romany Rowell
-
+* [Sarah Bethan Jones](https://www.instagram.com/sbj_____/)
+* [Charlotte Fountaine](http://www.charlottefountaine.com/)
+* Fran Gordon
+* [Romany Rowell](http://www.romanyrowell.com/)
 
 ### Contributors
 
-- Antra Svarcs
-- Michael Sacco
-- Leonie Sinden
-- Chelsea Frew
-- Antra Svarcs
-- Michael Sacco
-- Leonie Sinden
-- Chelsea Frew
-- Antra Svarcs
-- Michael Sacco
-- Leonie Sinden
-- Chelsea Frew
-- Antra Svarcs
-- Michael Sacco
-- Leonie Sinden
-- Chelsea Frew
+* [Antra Svarcs]()
+* Michael Sacco
+* [Leonie Sinden]()
+* [Chelsea Frew]()
+* Antra Svarcs
+* Michael Sacco
+* Leonie Sinden
+* Chelsea Frew
+* Antra Svarcs
+* Michael Sacco
+* Leonie Sinden
+* Chelsea Frew
+* Antra Svarcs
+* Michael Sacco
+* Leonie Sinden
+* Chelsea Frew
