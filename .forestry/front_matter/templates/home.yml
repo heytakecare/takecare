@@ -11,6 +11,9 @@ fields:
 - type: textarea
   name: description
   label: Description
+- type: file
+  name: logo
+  label: Logo
 - type: blocks
   name: issues
   label: Issues
