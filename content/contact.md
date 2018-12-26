@@ -9,3 +9,7 @@ title = "Contact"
 weight = 4
 
 +++
+Get in touch  
+[haytakecare@gmail.com](mailto:haytakecare@gmail.com)
+
+Follow us [@takecare_mag](https://instagram.com/takecare_mag)
