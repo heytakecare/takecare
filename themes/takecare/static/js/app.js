@@ -2,6 +2,14 @@
 
 var placedImages = [];
 var imageContainer = document.getElementById('images');
+var toggle = document.getElementById('toggle');
+
+function createCloseIcon() {
+  var close_icon = document.createElement('span');
+  close_icon.id = "close";
+  close_icon.innerHtml = "&times;";
+  return close_icon;
+}
 
 if (imageContainer != undefined) {
   var images = JSON.parse(imageContainer.dataset.images);
