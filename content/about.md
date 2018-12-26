@@ -36,6 +36,8 @@ weight = 2
 * Leonie Sinden
 * Chelsea Frew
 
+***
+
 Get in touch  
 [haytakecare@gmail.com](mailto:haytakecare@gmail.com)
 
