@@ -35,6 +35,17 @@ a, a:visited {
 
 /* Navigation */
 
+#toggle, #close {
+  display: block;
+  font-size: 1.4rem;
+  padding: 0.6rem 1rem;
+}
+
+#close {
+  display: block;
+  font-size: 2rem;
+}
+
 nav {
   margin: 0;
   padding: 0;
@@ -102,6 +113,10 @@ article {
 @media screen and (min-width: 720px) {
   a:hover {
     color: #5599a6;
+  }
+
+  #toggle, #close {
+    display: none;
   }
 
   nav {
