@@ -35,3 +35,8 @@ weight = 2
 * Michael Sacco
 * Leonie Sinden
 * Chelsea Frew
+
+Get in touch  
+[haytakecare@gmail.com](mailto:haytakecare@gmail.com)
+
+Follow us [@takecare_mag](https://instagram.com/takecare_mag)
