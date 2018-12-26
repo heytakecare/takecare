@@ -5,5 +5,7 @@ og_description = ""
 og_image = ""
 og_title = ""
 title = "Contact"
+[menu.main]
+weight = 4
 
 +++
