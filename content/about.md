@@ -19,10 +19,10 @@ weight = 2
 
 ### Contributors
 
-* [Antra Svarcs]()
+* [Antra Svarcs](http://www.antra-svarcs.com/)
 * Michael Sacco
-* [Leonie Sinden]()
-* [Chelsea Frew]()
+* [Leonie Sinden](http://www.leoniesinden.com/)
+* [Chelsea Frew](https://www.instagram.com/chelseafrew/)
 * Antra Svarcs
 * Michael Sacco
 * Leonie Sinden
