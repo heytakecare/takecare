@@ -19,3 +19,4 @@ fields:
   template: social
 pages:
 - content/about.md
+- content/contact.md
