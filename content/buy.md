@@ -1,5 +1,5 @@
 +++
-description = ""
+description = "Cheese, Hot cheese, get your cheese here"
 og_description = ""
 og_image = ""
 og_title = "Take Care - The Housing Issue"
