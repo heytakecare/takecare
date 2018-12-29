@@ -7,15 +7,15 @@ title = "Buy"
 [menu.main]
 weight = 3
 [[issues]]
+cover_image = "/uploads/cheese-varieties.jpg"
+issue_price = "15.00"
+issue_title = "The Food Issue"
+template = "issue"
+[[issues]]
 cover_image = "/uploads/TakeCare_MockUp-9.png"
 is_current_issue = true
 issue_price = "15.00"
 issue_title = "The Housing Issue"
-template = "issue"
-[[issues]]
-cover_image = "/uploads/cheese-varieties.jpg"
-issue_price = "15.00"
-issue_title = "The Food Issue"
 template = "issue"
 
 +++
