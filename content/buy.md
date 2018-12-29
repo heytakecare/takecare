@@ -1,5 +1,5 @@
 +++
-description = "Cheese, Hot cheese, get your cheese here"
+description = ""
 og_description = ""
 og_image = ""
 og_title = "Take Care - The Housing Issue"
@@ -19,4 +19,3 @@ issue_title = "The Housing Issue"
 template = "issue"
 
 +++
-**Take Care** is a magazine put together by five friends living between Glasgow and London. The debut issue is a collection of creative responses to what is widely acknowledged as the UK housing crisis. This issue was put together over the course of a year in an attempt to understand the housing crisis and its causes.
