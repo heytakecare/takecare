@@ -1,6 +1,6 @@
 +++
 description = "Take Care is a website made by five friends."
-logo = "/uploads/takecare_logo-01.svg"
+logo = ""
 og_description = ""
 og_image = ""
 og_title = "Take Care - The Housing Issue"
