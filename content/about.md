@@ -24,39 +24,23 @@ weight = 2
 
 ### Contributors
 
-Tide	Adesanya
-
-Imogen Ayres
-
-Erin	Bradley-Scott
-
-Zoe	Brownrigg
-
-Hannah Dixon
-
-Florence Dwyer
-
-Chelsea Frew
-
-Gillian Katungi
-
-Tom King
-
-Nendie Pinto-Dus-chinsky
-
-Sam	Russel-Walker
-
-Michael Sacco
-
-Bobby Sayers
-
-Leonie Sinden
-
-Jamie Squire
-
-Antra Svarcs
-
-Yvonne Thouroude
+* Tide	Adesanya
+* Imogen Ayres
+* Erin	Bradley-Scott
+* Zoe	Brownrigg
+* Hannah Dixon
+* Florence Dwyer
+* Chelsea Frew
+* Gillian Katungi
+* Tom King
+* Nendie Pinto-Dus-chinsky
+* Sam	Russel-Walker
+* Michael Sacco
+* Bobby Sayers
+* Leonie Sinden
+* Jamie Squire
+* Antra Svarcs
+* Yvonne Thouroude
 
 ***
 
