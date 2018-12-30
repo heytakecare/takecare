@@ -18,8 +18,8 @@ weight = 2
 
 * [Sarah Bethan Jones](https://www.instagram.com/sbj_____/)
 * [Charlotte Fountaine](http://www.charlottefountaine.com/)
-* Fran Gordon
-* Lewis Gordon
+* [Fran Gordon](http://www.francesgordondesign.com/)
+* [Lewis Gordon](https://twitter.com/lewis_gordon?lang=en)
 * [Romany Rowell](http://www.romanyrowell.com/)
 
 ### Contributors
