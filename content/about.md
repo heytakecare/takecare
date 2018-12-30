@@ -33,13 +33,13 @@ weight = 2
 * [Chelsea Frew](http://www.chelseafrew.com/)
 * [Gillian Katungi](https://www.linkedin.com/in/gkatungi/?originalSubdomain=uk)
 * [Tom King](https://www.behance.net/tomkingdesign)
-* [Nendie Pinto-Dus-chinsky]()
-* [Sam	Russel-Walker]()
-* [Michael Sacco]()
-* [Bobby Sayers]()
-* [Leonie Sinden]()
-* [Jamie Squire]()
-* [Antra Svarcs]()
+* [Nendie Pinto-Dus-chinsky]
+* [Sam	Russel-Walker]
+* [Michael Sacco]
+* [Bobby Sayers.]
+* [Leonie Sinden]
+* [Jamie Squire]
+* [Antra Svarcs]
 * Yvonne Thouroude
 
 ***
