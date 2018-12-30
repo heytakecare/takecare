@@ -1,5 +1,5 @@
 +++
-description = ""
+description = "The Housing Issue coming soon."
 og_description = ""
 og_image = ""
 og_title = "Take Care - The Housing Issue"
