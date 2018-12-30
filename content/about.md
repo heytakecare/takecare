@@ -39,7 +39,7 @@ weight = 2
 * [Bobby Sayers](http://www.bobbysayers.com/)
 * [Leonie Sinden](http://www.leoniesinden.com/)
 * [Jamie Squire](https://jamiesquire.co.uk/)
-* [Antra Svarcs]()
+* [Antra Svarcs]()
 * Yvonne Thouroude
 
 ***
