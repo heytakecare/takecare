@@ -14,5 +14,9 @@ fields:
   label: Issues
   template_types:
   - issue
+- type: include
+  name: social
+  label: Social
+  template: social
 pages:
 - content/buy.md
