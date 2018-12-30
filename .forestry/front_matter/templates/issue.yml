@@ -24,6 +24,10 @@ fields:
   name: issue_price
   label: Issue Price
 - type: text
+  name: issue_cta
+  label: Issue Call to Action
+  default: Buy now
+- type: text
   name: issue_buy_link
   label: Issue Buy Link
 - type: image_gallery
