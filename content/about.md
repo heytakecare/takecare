@@ -24,22 +24,22 @@ weight = 2
 
 ### Contributors
 
-* Tide	Adesanya
-* Imogen Ayres
-* Erin	Bradley-Scott
+* [Tide	Adesanya](https://www.instagram.com/teadayblogs/)
+* [Imogen Ayres](http://www.mobeltype.com/)
+* [Erin Bradley-Scott](https://www.instagram.com/ebscottsigns/?hl=en)
 * Zoe	Brownrigg
 * Hannah Dixon
-* Florence Dwyer
-* Chelsea Frew
-* Gillian Katungi
-* Tom King
-* Nendie Pinto-Dus-chinsky
-* Sam	Russel-Walker
-* Michael Sacco
-* Bobby Sayers
-* Leonie Sinden
-* Jamie Squire
-* Antra Svarcs
+* [Florence Dwyer](https://www.florencedwyer.com/)
+* [Chelsea Frew](http://www.chelseafrew.com/)
+* [Gillian Katungi](https://www.linkedin.com/in/gkatungi/?originalSubdomain=uk)
+* [Tom King](https://www.behance.net/tomkingdesign)
+* [Nendie Pinto-Dus-chinsky]()
+* [Sam	Russel-Walker]()
+* [Michael Sacco]()
+* [Bobby Sayers]()
+* [Leonie Sinden]()
+* [Jamie Squire]()
+* [Antra Svarcs]()
 * Yvonne Thouroude
 
 ***
