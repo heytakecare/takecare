@@ -42,6 +42,8 @@ weight = 2
 * [Antra Svarcs](http://www.antra-svarcs.com/)
 * Yvonne Thouroude
 
+***
+
 Get in touch  
 [haytakecare@gmail.com](mailto:haytakecare@gmail.com)
 
