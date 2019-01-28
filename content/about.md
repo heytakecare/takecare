@@ -12,7 +12,7 @@ weight = 2
 
 **It’s tough out there. Take care of each other.**
 
- 
+***
 
 ### Take Care Team
 
