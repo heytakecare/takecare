@@ -5,7 +5,7 @@ og_image = ""
 og_title = "Take Care - The Housing Issue"
 title = "Shop"
 [menu.main]
-weight = 3
+weight = 4
 [[issues]]
 cover_image = "/uploads/TakeCare_MockUp-9.png"
 is_current_issue = true
