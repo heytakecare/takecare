@@ -12,12 +12,10 @@ weight = 2
 
 **It’s tough out there. Take care of each other.**
 
-***
-
 ### Take Care Team
 
 * [Sarah Bethan Jones](https://www.instagram.com/sbj_____/)
-* [Charlotte Fountaine](http://www.charlottefountaine.com/)
+* <a href="http://www.charlottefountaine.com/" target="_blank">Charlotte Fountaine</a>
 * [Fran Gordon](http://www.francesgordondesign.com/)
 * [Lewis Gordon](https://twitter.com/lewis_gordon?lang=en)
 * [Romany Rowell](http://www.romanyrowell.com/)
@@ -41,8 +39,6 @@ weight = 2
 * [Jamie Squire](https://jamiesquire.co.uk/)
 * [Antra Svarcs](http://www.antra-svarcs.com/)
 * Yvonne Thouroude
-
-***
 
 Get in touch  
 [haytakecare@gmail.com](mailto:haytakecare@gmail.com)
