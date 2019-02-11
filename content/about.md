@@ -8,9 +8,9 @@ title = "About"
 weight = 2
 
 +++
-**Take Care** is a magazine put together by five friends living between Glasgow and London. The debut issue is a collection of creative responses to what is widely acknowledged as the UK housing crisis. This issue was put together over the course of a year in an attempt to understand the housing crisis and its causes.
+**Take Care** is a magazine put together by five friends living between Glasgow and London. Written and produced over the course of a year, it collects a range of creative responses to what is widely acknowledged as the housing crisis. Alongside contributors, we’re exploring how the issue impacts our everyday lives.
 
-**It’s tough out there. Take care of each other.**
+**It’s tough out there. Take care of one another.**
 
 ***
 
