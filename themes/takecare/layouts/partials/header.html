@@ -1,11 +1,12 @@
 <header>
     <nav>
       {{ $currentPage := . }}
+      <span id="toggle">&#9776;</span>
       <ul id="menu">
-        <span id="toggle">&#9776;</span>
-        <span id="close">&times;</span>
         {{ range .Site.Menus.main }}
-          <li {{ if $currentPage.IsMenuCurrent "main" . }}class="active"{{ end }} {{ with .Pre }}class="social"{{ end}}><a href="{{ .URL }}">{{ if .Pre }}{{ .Pre }}<span class="hidden">{{ .Name }}</span>{{ else }}{{ .Name }}{{ end }}</a></li>
+          <li {{ if $currentPage.IsMenuCurrent "main" . }}class="active"{{ end }}
+                  {{ with .Pre }}class="social"{{ end}}>
+                  <a href="{{ .URL }}">{{ if .Pre }}{{ .Pre }}<span class="hidden">{{ .Name }}</span>{{ else }}{{ .Name }}{{ end }}</a></li>
         {{ end }}
       </ul>
     </nav>
