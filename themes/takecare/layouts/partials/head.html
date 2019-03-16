@@ -9,3 +9,12 @@
   {{ with .Params.og_title }}<meta property="og:title" content="{{.}}" />{{end }}
   {{ with .Params.og_description }}<meta property="og:description" content="{{.}}" />{{ end }}
   {{ with .Params.og_image }}<meta property="og:image" content="{{ . | absURL }}" />{{ end }}
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-136380135-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-136380135-1');
+  </script>
