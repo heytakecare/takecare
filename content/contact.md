@@ -6,7 +6,7 @@ og_image = ""
 og_title = ""
 title = "Contact"
 [menu.main]
-weight = 4
+weight = 3
 
 +++
 Get in touch  

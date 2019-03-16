@@ -3,10 +3,10 @@
 {{ end }}
 
 {{ define "main" }}
+  {{ .Content }}
   {{ with .Params.issues }}
     {{ range . }}
       {{ partial "issue.html" . }}
     {{ end }}
   {{ end }}
-  {{ .Content }}
 {{ end }}

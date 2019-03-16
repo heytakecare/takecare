@@ -19,10 +19,6 @@ hr {
   border-width: 0;
 }
 
-h3 {
-  color: #b9f7e0;
-}
-
 ul {
   list-style: none;
   padding:0;
@@ -31,7 +27,7 @@ ul {
 
 a, a:visited {
   text-decoration: none;
-  color: #b9f7e0;
+  color: #5599a6;
 }
 
 /* Navigation */
@@ -108,13 +104,13 @@ article {
 @media screen and (min-width: 450px) {
 
   img.placed {
-    width: 6.5rem;
+    width: 5rem;
   }
 }
 
 @media screen and (min-width: 720px) {
   a:hover {
-    color: #5599a6;
+    color: #b9f7e0;
   }
 
   #toggle {
