@@ -77,6 +77,7 @@ nav li.active {
   padding: 4rem 2rem;
 }
 
+
 .social span.fab {
   display: none;
 }
@@ -106,7 +107,9 @@ article {
   img.placed {
     width: 5rem;
   }
+
 }
+
 
 @media screen and (min-width: 720px) {
   a:hover {
@@ -175,7 +178,23 @@ article {
     width: 45%;
   }
 
+  #content.home {
+    margin: auto;
+    height: 100%;
+    width: 40%;
+  }
+
   #contributors-list {
     column-count: 2;
+  }
+
+  @media screen and (min-width: 900px) {
+    #content.home {
+      margin: auto;
+      height: 100%;
+      width: 30%;
+      position: relative;
+      top: 15vh;
+    }
   }
 }
