@@ -16,6 +16,7 @@ body {
 
 hr {
   margin: 3rem 0;
+  border-width: 0;
 }
 
 h3 {
@@ -35,15 +36,10 @@ a, a:visited {
 
 /* Navigation */
 
-#toggle, #close {
+#toggle {
   display: block;
   font-size: 1.4rem;
   padding: 0.6rem 1rem;
-}
-
-#close {
-  display: block;
-  font-size: 2rem;
 }
 
 nav {
@@ -76,12 +72,17 @@ nav li.active {
   background: #ffddcb;
 }
 
-.social a span.hidden {
+#menu {
   display: none;
+  z-index: 10000000;
 }
 
 #content {
   padding: 4rem 2rem;
+}
+
+.social span.fab {
+  display: none;
 }
 
 #images {
@@ -97,7 +98,7 @@ img {
 }
 
 img.placed {
-  width: 5rem;
+  width: 4rem;
 }
 
 article {
@@ -105,6 +106,7 @@ article {
 }
 
 @media screen and (min-width: 450px) {
+
   img.placed {
     width: 6.5rem;
   }
@@ -115,8 +117,12 @@ article {
     color: #5599a6;
   }
 
-  #toggle, #close {
+  #toggle {
     display: none;
+  }
+
+  #menu {
+    display: block;
   }
 
   nav {
@@ -124,7 +130,7 @@ article {
   }
 
   nav ul {
-    padding: 1rem 2rem;
+    padding: 0.5rem 1.5rem;
   }
 
   nav li {
@@ -151,7 +157,7 @@ article {
   }
 
   img.placed {
-    width: 10rem;
+    width: 8rem;
   }
 
   .social {
@@ -160,8 +166,20 @@ article {
     padding: 0.3rem 0;
   }
 
+  .social a span.hidden {
+    display: none;
+  }
+
+  .social span.fab {
+    display: block;
+  }
+
   #content {
     margin: 0 8rem;
     width: 45%;
+  }
+
+  #contributors-list {
+    column-count: 2;
   }
 }

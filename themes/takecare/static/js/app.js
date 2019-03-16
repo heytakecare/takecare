@@ -1,18 +1,29 @@
 "use strict";
 
-var placedImages = [];
-var imageContainer = document.getElementById('images');
-var toggle = document.getElementById('toggle');
+let placedImages = [];
+let imageContainer = document.getElementById('images');
+let toggle = document.getElementById('toggle');
+let menu = document.getElementById('menu');
 
-function createCloseIcon() {
-  var close_icon = document.createElement('span');
-  close_icon.id = "close";
-  close_icon.innerHtml = "&times;";
-  return close_icon;
+toggle.onclick = function(e) {
+  e.preventDefault();
+  if (menu.style.display == 'none') {
+    menu.style.display = 'block';
+    toggle.innerHTML = '&times;';
+    toggle.style.color = '#000';
+    toggle.style.fontSize = '2rem';
+    toggle.style.backgroundColor = "#ffddcb";
+  } else {
+    menu.style.display = 'none';
+    toggle.innerHTML = '&#9776;';
+    toggle.style.color = '#fff';
+    toggle.style.fontSize = '1.4rem';
+    toggle.style.backgroundColor = '#000';
+  }
 }
 
 if (imageContainer != undefined) {
-  var images = JSON.parse(imageContainer.dataset.images);
+  let images = JSON.parse(imageContainer.dataset.images);
   imageContainer.onclick = function(event) {
     let imgData = {
       "xPos": event.clientX,
@@ -20,7 +31,7 @@ if (imageContainer != undefined) {
       "src": randomChoice(images)
     }
     placedImages.push(imgData);
-    var img = document.createElement('img');
+    let img = document.createElement('img');
     img.src = imgData.src;
     img.style.position = "absolute";
     img.style.left = imgData.xPos + "px";

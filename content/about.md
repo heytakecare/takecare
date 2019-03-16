@@ -19,22 +19,24 @@ weight = 2
 
 ### Contributors
 
-* [Antra Svarcs](http://www.antra-svarcs.com/)
-* Michael Sacco
-* [Leonie Sinden](http://www.leoniesinden.com/)
-* [Chelsea Frew](https://www.instagram.com/chelseafrew/)
-* Antra Svarcs
-* Michael Sacco
-* Leonie Sinden
-* Chelsea Frew
-* Antra Svarcs
-* Michael Sacco
-* Leonie Sinden
-* Chelsea Frew
-* Antra Svarcs
-* Michael Sacco
-* Leonie Sinden
-* Chelsea Frew
+<ul id="contributors-list">
+  <li><a href="http://www.antra-svarcs.com/">Antra Svarcs</a></li>
+  <li>Michael Sacco</li>
+  <li><a href="http://www.leoniesinden.com/">Leonie Sinden</a></li>
+  <li><a href="https://www.instagram.com/chelseafrew/">Chelsea Frew</a></li>
+  <li>Antra Svarcs</li>
+  <li>Michael Sacco</li>
+  <li>Leonie Sinden</li>
+  <li>Chelsea Frew</li>
+  <li>Antra Svarcs</li>
+  <li>Michael Sacco</li>
+  <li>Leonie Sinden</li>
+  <li>Chelsea Frew</li>
+  <li>Antra Svarcs</li>
+  <li>Michael Sacco</li>
+  <li>Leonie Sinden</li>
+  <li>Chelsea Frew</li>
+</ul>
 
 ***
 
