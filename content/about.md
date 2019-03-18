@@ -1,7 +1,7 @@
 +++
 description = ""
 og_description = ""
-og_image = ""
+og_image = "/uploads/takecare_images_kickstarter-03.jpg"
 og_title = ""
 title = "About"
 [menu.main]
