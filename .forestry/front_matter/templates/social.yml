@@ -1,17 +1,16 @@
 ---
 label: social
 hide_body: false
-display_field: og_title
 fields:
 - type: text
   name: og_title
   label: Social Title
-  description: Determines the title that will appear on social media
+  description: When you post the link on social media, this title will be used.
 - type: textarea
   name: og_description
   label: Social description
-  description: Defines the description that will appear in social media posts
+  description: When you post on social media, this description will be used.
 - type: file
   name: og_image
   label: Social Image
-  description: The image that will be posted
+  description: When you post on social media this image will be used.

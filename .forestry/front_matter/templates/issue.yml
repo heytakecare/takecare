@@ -1,17 +1,19 @@
 ---
 label: Issue
 hide_body: false
-display_field: issue_title
 fields:
 - type: boolean
   name: is_current_issue
   label: Current Issue
+  description: If selected this will show this issue's images on the home page
 - type: file
   name: cover_image
   label: Cover Image
+  description: The cover image is what is used on the Buy page to rep the issue.
 - type: text
   name: issue_title
   label: Issue Title
+  description: The title of the issue for example "The Housing Issue", "The Food Issue"
 - type: textarea
   name: issue_blurb
   label: Issue Blurb
@@ -22,13 +24,20 @@ fields:
 - type: text
   name: issue_price
   label: Issue Price
+  description: The price of the issue as a decimal without a £ sign, for example 15.00
 - type: text
   name: issue_cta
   label: Issue Call to Action
   default: Buy now
+  description: The Call to Action for readers. For example "Back us on Kickstarter",
+    "Buy now", "Subscribe for news"
 - type: text
   name: issue_buy_link
   label: Issue Buy Link
+  description: The weblink where people can complete the Call to action. For example
+    a product page in a webshop, a kickstarter page.
 - type: image_gallery
   name: issue_images
   label: Issue Images
+  description: Issue images are what show up on the homepage when people click around.
+    In future they could also be used in templates.

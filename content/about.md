@@ -8,7 +8,7 @@ title = "About"
 weight = 2
 
 +++
-**Take Care** is a magazine put together by five friends living between Glasgow and London. Written and produced over the course of a year, it collects a range of creative responses to what is widely acknowledged as the housing crisis. Alongside contributors, we’re exploring how the issue impacts our everyday lives.
+**Take Care** is a magazine put together by five friends living between Glasgow and London. It collects a range of creative responses to what is widely acknowledged as the housing crisis. Alongside contributors, we’re exploring how the issue impacts our everyday lives.
 
 **It’s tough out there. Take care of one another.**
 
@@ -24,25 +24,7 @@ weight = 2
 
 ### Contributors
 
-<ul id="contributors-list">
-  <li><a href="https://www.instagram.com/teadayblogs/" target="_blank">Tide	Adesanya</a></li>
-  <li><a href="http://www.mobeltype.com/" target="_blank">Imogen Ayres</a></li>
-  <li><a href="https://www.instagram.com/ebscottsigns" target="_blank">Erin Bradley-Scott</a></li>
-  <li>Zoe	Brownrigg</li>
-  <li>Hannah Dixon</li>
-  <li><a href="https://www.florencedwyer.com/" target="_blank">Florence Dwyer</a></li>
-  <li><a href="http://www.chelseafrew.com/" target="_blank">Chelsea Frew</a></li>
-  <li><a href="https://www.linkedin.com/in/gkatungi/" target="_blank">Gillian Katungi</a></li>
-  <li><a href="https://www.behance.net/tomkingdesign" target="_blank">Tom King</a></li>
-  <li><a href="http://www.nendiepintoduschinsky.com/home" target="_blank">Nendie Pinto-Dus-chinsky</a></li>
-  <li><a href="http://www.samrussellwalker.com/" target="_blank">Sam Russel-Walker</a></li>
-  <li><a href="https://www.instagram.com/michaeldantesacco/" target="_blank">Michael Sacco</a></li>
-  <li><a href="http://www.bobbysayers.com/" target="_blank">Bobby Sayers</a></li>
-  <li><a href="http://www.leoniesinden.com/" target="_blank">Leonie Sinden</a></li>
-  <li><a href="https://jamiesquire.co.uk/" target="_blank">Jamie Squire</a></li>
-  <li><a href="http://www.antra-svarcs.com/" target="_blank">Antra Svarcs</a></li>
-  <li>Yvonne Thouroude</li>
-</ul>
+<ul id="contributors-list"> <li><a href="https://www.instagram.com/teadayblogs/" target="_blank">Tide Adesanya</a></li> <li><a href="http://www.mobeltype.com/" target="_blank">Imogen Ayres</a></li> <li><a href="https://www.instagram.com/ebscottsigns" target="_blank">Erin Bradley-Scott</a></li> <li>Zoe	Brownrigg</li> <li>Hannah Dixon</li> <li><a href="https://www.florencedwyer.com/" target="_blank">Florence Dwyer</a></li> <li><a href="http://www.chelseafrew.com/" target="_blank">Chelsea Frew</a></li> <li><a href="https://www.linkedin.com/in/gkatungi/" target="_blank">Gillian Katungi</a></li> <li><a href="https://www.behance.net/tomkingdesign" target="_blank">Tom King</a></li> <li><a href="http://www.nendiepintoduschinsky.com/home" target="_blank">Nendie Pinto-Dus-chinsky</a></li> <li><a href="http://www.samrussellwalker.com/" target="_blank">Sam Russel-Walker</a></li> <li><a href="https://www.instagram.com/michaeldantesacco/" target="_blank">Michael Sacco</a></li> <li><a href="http://www.bobbysayers.com/" target="_blank">Bobby Sayers</a></li> <li><a href="http://www.leoniesinden.com/" target="_blank">Leonie Sinden</a></li> <li><a href="https://jamiesquire.co.uk/" target="_blank">Jamie Squire</a></li> <li><a href="http://www.antra-svarcs.com/" target="_blank">Antra Svarcs</a></li> <li>Yvonne Thouroude</li></ul>
 
 ***
 

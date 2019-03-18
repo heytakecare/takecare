@@ -13,6 +13,8 @@ fields:
   label: Issues
   template_types:
   - issue
+  description: A list of available issues. Drag and drop to change the order on the
+    buy page.
 - type: include
   name: social
   label: Social
