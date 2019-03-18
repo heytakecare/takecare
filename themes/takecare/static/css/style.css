@@ -35,7 +35,7 @@ a, a:visited {
 #toggle {
   display: block;
   font-size: 1.4rem;
-  padding: 0.6rem 1rem;
+  padding: 1rem;
 }
 
 nav {
@@ -71,12 +71,17 @@ nav li.active {
 #menu {
   display: none;
   z-index: 10000000;
+
+  width: 100%;
 }
 
 #content {
   padding: 4rem 2rem;
 }
 
+#prompt {
+  position: absolute;
+}
 
 .social span.fab {
   display: none;
@@ -103,13 +108,10 @@ article {
 }
 
 @media screen and (min-width: 450px) {
-
   img.placed {
     width: 5rem;
   }
-
 }
-
 
 @media screen and (min-width: 720px) {
   a:hover {
