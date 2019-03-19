@@ -17,5 +17,5 @@ fields:
   label: Social
   template: social
 pages:
-- content/about.md
 - content/contact.md
+- content/about.md
