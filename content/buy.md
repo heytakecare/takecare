@@ -1,7 +1,7 @@
 +++
 description = ""
 og_description = ""
-og_image = "/uploads/takecare_images_kickstarter-03.jpg"
+og_image = "/uploads/TakeCare_Kickstarter_1.jpg"
 og_title = "Take Care - The Housing Issue"
 title = "Shop"
 [menu.main]
