@@ -32,3 +32,5 @@ Get in touch
 [haytakecare@gmail.com](mailto:haytakecare@gmail.com)
 
 Follow us [@takecare_mag](https://instagram.com/takecare_mag)
+
+Website by [Mathew Trivett](https://mathewtrivett.co.uk/)
