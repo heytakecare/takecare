@@ -2,7 +2,7 @@
 description = "Take Care is a website made by five friends."
 logo = "/uploads/takecare_logo_rect.svg"
 og_description = "Back us on Kickstarter"
-og_image = "/uploads/takecare_images_kickstarter-03.jpg"
+og_image = "/uploads/TakeCare_Kickstarter_1.jpg"
 og_title = "Take Care - The Housing Issue"
 title = "Home"
 [menu.main]
