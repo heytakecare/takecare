@@ -17,6 +17,6 @@ fields:
   label: Social
   template: social
 pages:
-- content/stockists.md
 - content/about.md
+- content/stockists.md
 - content/contact.md

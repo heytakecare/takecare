@@ -28,9 +28,12 @@ weight = 2
 
 ***
 
-Get in touch  
-[haytakecare@gmail.com](mailto:haytakecare@gmail.com)
+### Website
 
-Follow us [@takecare_mag](https://instagram.com/takecare_mag)
+ [Mathew Trivett](https://mathewtrivett.co.uk/)
 
-Website by [Mathew Trivett](https://mathewtrivett.co.uk/)
+### Features
+
+[Creative Review](https://www.creativereview.co.uk/good-reads-take-cares-creative-response-to-the-housing-crisis/)
+
+[It's Nice That](https://www.itsnicethat.com/articles/take-care-magazine-publication-230719)
