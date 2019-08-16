@@ -12,6 +12,8 @@ weight = 7
 
 [Mag Culture](https://magculture.com/)
 
+[Review Bookshop](http://www.reviewbookshop.co.uk/)
+
 ### **Amsterdam**
 
 [Athenaeum Nieuwscentrum](https://www.athenaeum.nl/magazines/)
