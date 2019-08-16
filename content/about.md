@@ -32,7 +32,7 @@ weight = 2
 
  [Mathew Trivett](https://mathewtrivett.co.uk/)
 
-### Features
+### Featured
 
 [Creative Review](https://www.creativereview.co.uk/good-reads-take-cares-creative-response-to-the-housing-crisis/)
 
