@@ -18,5 +18,5 @@ fields:
   template: social
 pages:
 - content/about.md
-- content/stockists.md
 - content/contact.md
+- content/stockists.md

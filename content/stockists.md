@@ -14,6 +14,10 @@ weight = 7
 
 [Review Bookshop](http://www.reviewbookshop.co.uk/)
 
+### **Sheffield**
+
+[La Biblioteka](https://labiblioteka.co/search?keyword=take+care)
+
 ### **Amsterdam**
 
 [Athenaeum Nieuwscentrum](https://www.athenaeum.nl/magazines/)
