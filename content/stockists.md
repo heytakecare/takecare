@@ -14,6 +14,8 @@ weight = 7
 
 [Review Bookshop](http://www.reviewbookshop.co.uk/)
 
+[South London Gallery](https://www.southlondongallery.org/)
+
 ### **Sheffield**
 
 [La Biblioteka](https://labiblioteka.co/search?keyword=take+care)
